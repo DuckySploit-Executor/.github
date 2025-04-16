@@ -5,6 +5,7 @@
 ### **🚀 About DuckySploit**  
 The **most advanced Level 7 Roblox executor** trusted by 100,000+ players . DuckySploit bypasses anti-cheat systems with ease, supporting **LUA files and Level 8 scripts** for games like *Arsenal* and *Rivals*. No keys, no ads—just download and dominate .  
 
+[![Download DuckySploit](https://img.shields.io/badge/Download-DuckySploit-blueviolet)](https://rblxexecutors.github.io/executors/duckysploit/)
 ---
 
 ### **✨ Key Features**  
